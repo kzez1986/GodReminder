@@ -1,0 +1,17 @@
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\bin\Debug\BógMówi.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\bin\Debug\BógMówi.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\BógMówi.Form1.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\BógMówi.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\BógMówi.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\BógMówi.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\BógMówi\BógMówi\obj\Debug\BógMówi.pdb
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\bin\Debug\BógMówi.exe
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\bin\Debug\BógMówi.pdb
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.Form1.resources
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.exe
+C:\Users\kzez1986\Desktop\Do sprawdzenia\BógMówi\BógMówi\obj\Debug\BógMówi.pdb
